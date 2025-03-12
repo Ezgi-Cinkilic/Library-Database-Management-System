@@ -9,11 +9,12 @@ The university library provides book borrowing, article publishing, and study ro
 ## 🚀 Features
 
 - 📌 **User Registration System** (Students & Instructors)
+- 📌 **Book & Article Search**
 - 📌 **Book Borrowing & Returning**
+- 📌 **Article Publishing**
 - 📌 **Study Room Reservation**
 - 📌 **Automatic Late Fee Calculation**
-- 📌 **Article Publishing**
-- 📌 **Database Management with MS Access**
+- 📌 **Automatic Report Generation**
 
 
 ---
